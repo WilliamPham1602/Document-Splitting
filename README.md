@@ -1,11 +1,7 @@
 # README Document Splitting Challenge 
+Document Splitting
 
-___
-
-* Maarten Marx
-* V1.0 2022-03-28
-
-____
+Data Link : https://www.icloud.com/iclouddrive/081jNFZK6tVBJYKq8V3D1J2rw#Data
 
 ### Content of folder
 
