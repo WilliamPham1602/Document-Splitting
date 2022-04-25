@@ -46,3 +46,9 @@ The folder contains 2 traintest sets, corpus1 and corpus2. Both have the same se
 ## Evaluation
 
 * The performance of your splitter is measured by mean Bcubed F1 and mean Hamming distance over all docs in the two testsets. So each run obtains four evaluation measures.
+
+## Reference
+- [https://arxiv.org/pdf/1910.03678.pdf](https://arxiv.org/pdf/1910.03678.pdf)
+- [https://link.springer.com/chapter/10.1007/978-3-540-76280-5_5][https://link.springer.com/chapter/10.1007/978-3-540-76280-5_5]
+- [https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f][https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f]
+- [https://proceedings.neurips.cc/paper/2021/file/0084ae4bc24c0795d1e6a4f58444d39b-Paper.pdf][https://proceedings.neurips.cc/paper/2021/file/0084ae4bc24c0795d1e6a4f58444d39b-Paper.pdf]
