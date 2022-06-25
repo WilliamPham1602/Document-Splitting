@@ -1,5 +1,5 @@
 import argparse
-from src.doc2vec_gensim_train import doc2vec_Trainer
+from doc2vec_gensim_train import doc2vec_Trainer
 
 
 def get_args():
@@ -12,7 +12,7 @@ def get_args():
     parser.add_argument('-vs', '--vector_size', type=int, default=512, help='epochs')
     parser.add_argument('-ep', '--epochs', type=int, default=50, help='epochs')
     parser.add_argument('-ap', '--alpha', type=float, default=0.002, help='alpha')
-    parser.add_argument('-db', '--distributed', type=str, default='dm', help='distributed')
+    parser.add_argument('-db', '--distributed', type=str, default='dm', help='distributed') # change to dw to train the distributed bag of word model
     args = parser.parse_args()
     return args
 
