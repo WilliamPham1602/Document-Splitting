@@ -3,6 +3,8 @@ Document Splitting
 
 Data Link : https://www.icloud.com/iclouddrive/081jNFZK6tVBJYKq8V3D1J2rw#Data
 
+Model and Submission link: https://www.icloud.com/iclouddrive/02brnREc6_CVpVWzjO1_fg_oQ#Submission
+
 Final Thesis report: https://www.overleaf.com/5948359792rndwxymmpbjx
 
 
